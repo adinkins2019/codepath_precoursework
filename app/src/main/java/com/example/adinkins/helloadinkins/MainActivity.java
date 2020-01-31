@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.i("Antonio", "Everything reset");
                 ((TextView) findViewById(R.id.textView)).setTextColor(getResources().getColor(R.color.black));
                 findViewById(R.id.appContent).setBackgroundColor(getResources().getColor(R.color.holoBlueLight));
-                ((TextView)findViewById(R.id.textView)).setText("Hello from Antonio!");
+                ((TextView)findViewById(R.id.textView)).setText(getResources().getString(R.string.originalText));
             }
         });
 
