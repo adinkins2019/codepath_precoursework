@@ -4,10 +4,9 @@
 This precourse work application does some very basic things. It changes the color of text string, changes the color of the background, and changes the text of the text string provided user input.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+<img src="https://i.imgur.com/fB7YtLt.gif" width=200><br>
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
+This App Walkthrough gif is also found in this repository.
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
