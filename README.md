@@ -1,0 +1,1 @@
+In this repository you will find an example of a sample Android application. All of the details regarding the application are provided in the PREWORK_README.md. This repository will include a GIF of the application and the application code.
